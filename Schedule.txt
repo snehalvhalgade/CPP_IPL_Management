@@ -1,0 +1,31 @@
+    Schedule:
+1. CSK VS KKR: 6 may
+2. RR vs KIXP: 7 may
+3. DD vs MI : 8 may
+4. KKR vs RR: 9 may
+5. MI vs SRH :10 may
+6. CSK vs DD: 11 may
+7. KXIP vs RCB: 12 may
+8. KKR vs KXIP: 13 may
+9. CSK vs DD: 14 may
+10.RCB vs MI: 15 may
+11.KXIP vs SRH: 16 may
+12.CSK vs KKR : 17 may
+13.RR vs KIXP: 18 may
+14.CSK vs SRH : 19 may
+15.KKR vs MI : 20 may
+16.KXIP vs DD :21 may
+17.DD vs RCB : 22 may
+18.RR vs CSK :23 may
+19.MI vs RCB : 24 may
+20.CSK vs DD :25 may
+21.MI vs RR : 26 may
+22.KXIP vs SRH :27 may
+23.RCB vs KKR :28 may
+24.CSK vs DD :29 may
+25.MI vs KXIP: 30 may
+26.RR vs SRH :1 june
+27.RCB vs MI: 2 june
+28.DD vs MI :3 june
+29.CSK vs KKR :4 june
+30.KXIP vs MI: 5 june
